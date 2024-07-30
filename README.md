@@ -1,6 +1,3 @@
-## Hi there 👋 
-
-
 <h1 align="center">Hi 👋, I'm Waruna Kulathunga 👨‍💻 "Software Engineer | Frontend Developer | React Enthusiast | Open Source Contributor."</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka.</h3>
 
