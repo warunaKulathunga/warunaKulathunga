@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Waruna Kulathunga 👨‍💻 "Software Engineer | Frontend Developer | React Enthusiast | Open Source Contributor."</h1>
+<h2 align="center">Hi 👋, I'm Waruna Kulathunga 👨‍💻 "Software Engineer | Frontend Developer | React Enthusiast | Open Source Contributor."</h2>
 <h3 align="center">A passionate Software Engineer from Sri Lanka.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warunakulathunga&label=Profile%20views&color=0e75b6&style=flat" alt="warunakulathunga" /> </p>
