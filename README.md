@@ -1,5 +1,6 @@
 <h2 align="center">Hi 👋, I'm Waruna Kulathunga 👨‍💻 "Software Engineer | Frontend Developer | React Enthusiast | Open Source Contributor."</h2>
 <h3 align="center">A passionate Software Engineer from Sri Lanka.</h3>
+<p> ⚡ React - JavaScript - Typescript - Redux - HTML/CSS/SCSS - Bootstrap - Tailwind CSS - Material-UI - Flutter - Dart - Node.js - Bubble.io - WordPress ⚡<p>
 	
 <p align = "center">
 	🐍 A Snake Eating my Contributions Graph
@@ -9,11 +10,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warunakulathunga&label=Profile%20views&color=0e75b6&style=flat" alt="warunakulathunga" /> </p>
 
 - 🔭 I’m currently working on **a donation website.**
-  
--  Proficient : React, JavaScript, Typescript, Redux, HTML/CSS/SCSS, Bootstrap, Tailwind CSS, Material-UI, Flutter, Dart
-
--  Prior experience : Node.js, Angular, Bubble.io, WordPress
-
 
 - 🌱 I’m currently learning **📚 I’m currently learning backend development with Node.js and Express, and diving deeper into Tailwind CSS.**
 
