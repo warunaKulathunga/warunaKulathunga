@@ -1,6 +1,5 @@
 <h2 align="center">Hi 👋, I'm Waruna Kulathunga 👨‍💻 "Software Engineer | Frontend Developer | React Enthusiast | Open Source Contributor."</h2>
 <h3 align="center">A passionate Software Engineer from Sri Lanka.</h3>
-</br></br>
 	🐍 A Snake Eating my Contributions Graph
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
