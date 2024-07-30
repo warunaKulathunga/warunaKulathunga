@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Waruna Kulathunga 👨‍💻 "Software Engineer | Frontend Developer | React Enthusiast | Open Source Contributor."</h2>
 <h3 align="center">A passionate Software Engineer from Sri Lanka.</h3>
-<p> ⚡ React - JavaScript - Typescript - Redux - HTML/CSS/SCSS - Bootstrap - Tailwind CSS - Material-UI - Flutter - Dart - Node.js - Bubble.io - WordPress ⚡<p>
+<p align="center"> ⚡ React - JavaScript - Typescript - Redux - HTML/CSS/SCSS - Bootstrap - Tailwind CSS - Material-UI - Flutter - Dart - Node.js - Bubble.io - WordPress ⚡<p>
 	
 <p align = "center">
 	🐍 A Snake Eating my Contributions Graph
