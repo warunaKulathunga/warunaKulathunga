@@ -1,4 +1,5 @@
-## Hi there 👋 👨‍💻 "Software Engineer | Frontend Developer | React Enthusiast | Open Source Contributor."
+## Hi there 👋 
+👨‍💻 "Software Engineer | Frontend Developer | React Enthusiast | Open Source Contributor."
 
 <!--
 **warunaKulathunga/warunaKulathunga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
